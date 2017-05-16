@@ -1,0 +1,3 @@
+rootProject.name = 'RNETodoExercise'
+
+include ':app'
